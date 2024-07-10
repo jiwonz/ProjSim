@@ -1,0 +1,21 @@
+{
+	"name": "projsim",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Packages": {
+				"$path": "Packages",
+				"projsim": {
+					"$path": "src"
+				}
+			}
+		},
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"test": {
+				"$path": "test"
+			}
+		}
+	}
+}
